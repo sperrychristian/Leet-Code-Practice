@@ -42,3 +42,5 @@ function twoSum(nums, target) {
         }
     }
 }
+
+console.log(twoSum(nums, target));
